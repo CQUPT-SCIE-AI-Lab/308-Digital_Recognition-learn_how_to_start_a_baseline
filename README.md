@@ -1,6 +1,6 @@
 # 308-Digital_Recognition-learn_how_to_start_a_baseline
 
-- **Handwritten digit recognition is one of the more basic classification tasks in deep learning, and is used for introductory learning**
+- **Handwritten digit recognition is one of the more basic classification tasks in deep learning, and is used for introductory learning, If you encounter errors in the code or have questions about the code, please leave a comment to discuss!**
 
 1. There are 3 tasks in total, starting with MLP and then using timm to call the current popular CNN or VIT models for classification
 
